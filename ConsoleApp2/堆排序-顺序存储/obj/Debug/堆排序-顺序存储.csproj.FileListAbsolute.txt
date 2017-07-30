@@ -1,0 +1,6 @@
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\堆排序-顺序存储\bin\Debug\堆排序-顺序存储.exe.config
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\堆排序-顺序存储\bin\Debug\堆排序-顺序存储.exe
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\堆排序-顺序存储\bin\Debug\堆排序-顺序存储.pdb
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\堆排序-顺序存储\obj\Debug\堆排序-顺序存储.csprojResolveAssemblyReference.cache
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\堆排序-顺序存储\obj\Debug\堆排序-顺序存储.exe
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\堆排序-顺序存储\obj\Debug\堆排序-顺序存储.pdb

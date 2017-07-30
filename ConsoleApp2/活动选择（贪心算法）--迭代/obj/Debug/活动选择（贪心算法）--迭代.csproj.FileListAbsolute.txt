@@ -1,0 +1,5 @@
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\活动选择（贪心算法）--迭代\bin\Debug\活动选择（贪心算法）--迭代.exe.config
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\活动选择（贪心算法）--迭代\bin\Debug\活动选择（贪心算法）--迭代.exe
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\活动选择（贪心算法）--迭代\bin\Debug\活动选择（贪心算法）--迭代.pdb
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\活动选择（贪心算法）--迭代\obj\Debug\活动选择（贪心算法）--迭代.exe
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\活动选择（贪心算法）--迭代\obj\Debug\活动选择（贪心算法）--迭代.pdb

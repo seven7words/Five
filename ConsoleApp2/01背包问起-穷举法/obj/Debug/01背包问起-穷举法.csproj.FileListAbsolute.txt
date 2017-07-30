@@ -1,0 +1,6 @@
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\01背包问起-穷举法\bin\Debug\01背包问起-穷举法.exe.config
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\01背包问起-穷举法\bin\Debug\01背包问起-穷举法.exe
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\01背包问起-穷举法\bin\Debug\01背包问起-穷举法.pdb
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\01背包问起-穷举法\obj\Debug\01背包问起-穷举法.csprojResolveAssemblyReference.cache
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\01背包问起-穷举法\obj\Debug\01背包问起-穷举法.exe
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\01背包问起-穷举法\obj\Debug\01背包问起-穷举法.pdb

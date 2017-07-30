@@ -1,0 +1,6 @@
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\活动选择问题（动态规划）自底向上法\bin\Debug\活动选择问题（动态规划）自底向上法.exe.config
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\活动选择问题（动态规划）自底向上法\bin\Debug\活动选择问题（动态规划）自底向上法.exe
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\活动选择问题（动态规划）自底向上法\bin\Debug\活动选择问题（动态规划）自底向上法.pdb
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\活动选择问题（动态规划）自底向上法\obj\Debug\活动选择问题（动态规划）自底向上法.csprojResolveAssemblyReference.cache
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\活动选择问题（动态规划）自底向上法\obj\Debug\活动选择问题（动态规划）自底向上法.exe
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\活动选择问题（动态规划）自底向上法\obj\Debug\活动选择问题（动态规划）自底向上法.pdb

@@ -1,0 +1,6 @@
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\动态规划-钢条切割\bin\Debug\动态规划-钢条切割.exe.config
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\动态规划-钢条切割\bin\Debug\动态规划-钢条切割.exe
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\动态规划-钢条切割\bin\Debug\动态规划-钢条切割.pdb
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\动态规划-钢条切割\obj\Debug\动态规划-钢条切割.csprojResolveAssemblyReference.cache
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\动态规划-钢条切割\obj\Debug\动态规划-钢条切割.exe
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\动态规划-钢条切割\obj\Debug\动态规划-钢条切割.pdb

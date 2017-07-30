@@ -1,0 +1,6 @@
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\钢条切割问题，自底向上\bin\Debug\钢条切割问题，自底向上.exe.config
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\钢条切割问题，自底向上\bin\Debug\钢条切割问题，自底向上.exe
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\钢条切割问题，自底向上\bin\Debug\钢条切割问题，自底向上.pdb
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\钢条切割问题，自底向上\obj\Debug\钢条切割问题，自底向上.csprojResolveAssemblyReference.cache
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\钢条切割问题，自底向上\obj\Debug\钢条切割问题，自底向上.exe
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\钢条切割问题，自底向上\obj\Debug\钢条切割问题，自底向上.pdb

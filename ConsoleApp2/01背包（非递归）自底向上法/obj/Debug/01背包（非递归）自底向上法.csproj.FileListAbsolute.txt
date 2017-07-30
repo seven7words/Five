@@ -1,0 +1,5 @@
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\01背包（非递归）自底向上法\bin\Debug\01背包（非递归）自底向上法.exe.config
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\01背包（非递归）自底向上法\bin\Debug\01背包（非递归）自底向上法.exe
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\01背包（非递归）自底向上法\bin\Debug\01背包（非递归）自底向上法.pdb
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\01背包（非递归）自底向上法\obj\Debug\01背包（非递归）自底向上法.exe
+C:\Users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp2\01背包（非递归）自底向上法\obj\Debug\01背包（非递归）自底向上法.pdb
